@@ -1,15 +1,17 @@
 *{
-    background-color: blanchedalmond ;
+    background-color:blanchedalmond  ;
     padding: 0;
     margin:0;
 }
 
 h1{
-    background-color: rgb(4, 111, 146);
+    background-color: rgb(17, 93, 122);
     color: white;
     text-align: center;
-    padding: 15px 0px;
+    padding: 35px 0px;
     margin-bottom: 10px;
+    font-size: 55px;
+    text-shadow: 2px 2px black;
 }
 
 .one{
@@ -38,6 +40,11 @@ h2{
 
 ul{
     padding-left: 50px;
+    font-size: 18px;
+}
+
+p{
+    font-size: 18px;
 }
 
 h2,ul,p,li{
